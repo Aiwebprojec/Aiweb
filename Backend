@@ -1,0 +1,9 @@
+cd /path/to/ai-web-project
+
+git init
+git add .
+git commit -m "Initial commit: backend + frontend"
+
+git remote add origin https://github.com/yourname/ai-web-project.git
+git branch -M main
+git push -u origin main
